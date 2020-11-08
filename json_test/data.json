@@ -1,0 +1,17 @@
+{
+    "info": [
+        {
+            "name": "Jack",
+            "hobby": "basketball"
+        },
+        {
+            "name": "Xander",
+            "hobby": "running"
+        },
+        {
+            "name": "Eric",
+            "hobby": "running"
+        }
+    ]
+}
+
